@@ -1,6 +1,0 @@
-{
-  "port" : "5000",
-  "jwtSecret": "makson mern try",
-  "mongoUrl": "mongodb+srv://dbMaksim:mary27kay@cluster0.f0vwa.mongodb.net/app?retryWrites=true&w=majority",
-  "baseUrl":"http://localhost:5000"
-}
